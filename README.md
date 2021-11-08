@@ -3,6 +3,8 @@
 
 This repository is for sharing special lecture materials on social media language.
 
+If you have any questions, please send an email to the email address below.
+
 
 #### Materials
 1. Research Introduction.pdf
