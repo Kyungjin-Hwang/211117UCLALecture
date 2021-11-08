@@ -1,7 +1,7 @@
-# Research for social Media language 
+# Research for social media language with crawling 
 ### Special lecture at UCLA Department of Spanish and Portugues on November 17, 2021
 
-This repository is for sharing special lecture materials on social media language.
+This repository is for sharing special lecture materials about social media language with crawling
 
 If you have any questions, please send an email to the email address below.
 
