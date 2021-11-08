@@ -1,5 +1,5 @@
 # Research for social Media language 
-### Special lecture at UCLA Department of Spanish and Portugues on November 18, 2021
+### Special lecture at UCLA Department of Spanish and Portugues on November 17, 2021
 
 This repository is for sharing special lecture materials on social media language.
 
