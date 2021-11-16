@@ -12,8 +12,7 @@ If you have any questions, please send an email to the email address below.
 * [Article] Expresiones emociales en español en línea, a través de análisis de sentimiento con Machine Learning
 
 2. Social Media Research.pdf
-3. How to register as developer in Twitter.pdf
-4. How to get Youtube API.pdf
+3. How to get Youtube API.pdf
 
 #### Crawling Code
 1. Crawling for Youtube comments: ipynb file
