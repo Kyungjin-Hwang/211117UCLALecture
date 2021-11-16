@@ -1,5 +1,5 @@
 # Research for social media language with crawling 
-### Special lecture at UCLA Department of Spanish and Portugues on November 17, 2021
+### Special lecture at Department of Spanish and Portugues, UCLA on November 17, 2021
 
 This repository is for sharing special lecture materials about social media language with crawling
 
