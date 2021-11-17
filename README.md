@@ -16,7 +16,7 @@ If you have any questions, please send an email to the email address below.
 
 #### Crawling Code
 1. Crawling for Youtube comments: ipynb file
-2. Crawling for Twiter : ipynb file
+2. Crawling for Twitter : ipynb file
 
 #### References
 Book 
